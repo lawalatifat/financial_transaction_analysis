@@ -6,19 +6,25 @@ Step i: Import the necessary libraries needed for the analysis
 Step ii: Load the data
 Step iii: Explore the data - understand the structure and contents of the dataset (describe and info)
 Step iv: Data cleaning
+
 1. Check for null values and drop if necessary
 2. Ensure the date column is in date format
 3. Convert "Amount" to numeric
 4. Drop any remaining rows with missing "Amount" after conversion
 5. Check the cleaned data
+   
 Step v: Analyze the data to get insights (Research questions)
+
 1. Transaction volume in each month
 2. How much was spent using different payment type
 3. How much was spent by each customer per transaction type
 4. Sum of transactions in each year
+
 Step vi: Visualize the data
+
 1. Distribution of the transaction values in each year
 2. Distribution of the transaction types in each year (pie chart)
+
 Step vii: Save the processed data
 
 METHODOLOGY 
