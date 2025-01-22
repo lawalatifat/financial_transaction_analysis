@@ -3,8 +3,11 @@ Scope: this project used imaginary dataset with total number of 100,000 entries.
 
 OBJECTIVES: Here are the objectives of the project:
 Step i: Import the necessary libraries needed for the analysis
+
 Step ii: Load the data
+
 Step iii: Explore the data - understand the structure and contents of the dataset (describe and info)
+
 Step iv: Data cleaning
 
 1. Check for null values and drop if necessary
