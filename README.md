@@ -24,10 +24,10 @@ Step iv: Data cleaning
    
 Step v: Analyze the data to get insights (Research questions)
 
-1. Transaction volume in each month
-2. How much was spent using different payment type
-3. How much was spent by each customer per transaction type
-4. Sum of transactions in each year
+1. Transaction volume in each month of the year 2021
+2. How much was spent using different payment type?
+3. How much was spent by each customer per transaction type in 2020?
+4. Sum of transactions in each year.
 
 Step vi: Visualize the data
 
