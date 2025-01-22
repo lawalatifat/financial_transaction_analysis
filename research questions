@@ -1,5 +1,4 @@
-What was the sum of transactions in each year (rounded up to 2 decimal places)?
 What was the transaction volume in each month of the year 2021?
 How much was spent by each customer per transaction type in 2020?
-Show the distribution of transaction volume in each year
-Show the distribution of the transaction types in each year using pie chart
+Show the distribution of transaction value in each year using a line graph. 
+Show the distribution of the transaction types in each year using pie chart.
