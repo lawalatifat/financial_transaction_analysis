@@ -1,8 +1,12 @@
-INTRODUCTION: the purpose of this analysis is to understand customers' behavior and also identify how much transaction is processed via each transaction type (credit, debit and transaction).
+INTRODUCTION
+
+Purpose: the purpose of this analysis is to understand customers' behavior and also identify how much transactions are processed via each transaction type (credit, debit and transaction).
 
 Scope: this project used imaginary dataset with total number of 100,000 entries.
 
-OBJECTIVES: Here are the objectives of the project:
+OBJECTIVES
+
+Here are the objectives of the project:
 
 Step i: Import the necessary libraries needed for the analysis
 
@@ -33,6 +37,7 @@ Step vi: Visualize the data
 Step vii: Save the processed data
 
 METHODOLOGY 
+
 Data Overview: Below is the description of the dataset
 
 transaction_id: Unique identifier for each transaction.
